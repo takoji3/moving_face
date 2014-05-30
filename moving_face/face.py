@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 
 import os
-from key import Key
+from .key import Key
 
 LF = "\n"
 

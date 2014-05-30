@@ -12,7 +12,7 @@ setup(
 
     # The project's main homepage.
     #url='https://github.com/pypa/sampleproject',
-    url=''
+    url='',
 
     # Author details
     author='Ryo Kawano',
@@ -27,7 +27,7 @@ setup(
         'Programming Language :: Python :: 3',
     ],
 
-    packages=['moving_face']
+    packages=['moving_face'],
 
     # To provide executable scripts, use entry points in preference to the
     # "scripts" keyword. Entry points provide cross-platform support and allow

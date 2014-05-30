@@ -4,9 +4,12 @@ MovingFace
 
 ---
 
-MovingFaceはお遊びツールです。
+MovingFace is a tool for fun. 
+You can play with a face (specify string).
 
-好きな顔（文字列）を動かして遊ぶことができます。
+## environment
+
+* python >= 3.*
 
 ## Key map
 
@@ -18,18 +21,6 @@ MovingFaceはお遊びツールです。
 | h,Left | move to left |
 
 ## Instllation
-
-You can use `pip` or `easy_install` command.
-
-```
-$ pip install moving_face
-```
-
-```
- $ easy_install install moving_face
- ```
-
- Alternatively, you download the package manually from the Python Package Index https://pypi.python.org/pypi/MovingFace.
 
  ```
  $ python setup.py install

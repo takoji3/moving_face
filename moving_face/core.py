@@ -1,8 +1,8 @@
 # -*- coding:utf-8 -*-
 
 import sys
-from face import Face
-from key import Key
+from .face import Face
+from .key import Key
 
 def start():
     try:
