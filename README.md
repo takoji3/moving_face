@@ -22,7 +22,7 @@ MovingFace
 You can use `pip` command for install.
 
 ```
-$ pip install moving_face
+$ pip install MovingFace
 ```
 
 Alternatively, you download the package manually from the Python Package Index https://pypi.python.org/pypi/MovingFace.
