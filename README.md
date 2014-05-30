@@ -1,7 +1,4 @@
-====
 MovingFace
-====
-
 ---
 
 MovingFace is a tool for fun. 
@@ -20,7 +17,7 @@ You can play with a face (specify string).
 | l,Right | move to right |
 | h,Left | move to left |
 
-## Instllation
+## Installation
 
  ```
  $ python setup.py install
