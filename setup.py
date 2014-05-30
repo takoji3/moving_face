@@ -11,8 +11,7 @@ setup(
     #long_description=''
 
     # The project's main homepage.
-    #url='https://github.com/pypa/sampleproject',
-    url='',
+    url='https://github.com/takoji3/moving_face',
 
     # Author details
     author='Ryo Kawano',
